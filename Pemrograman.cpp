@@ -6,7 +6,7 @@ int main() {
     std::cout << "Berapa banyak astronot (N): ";
     std::cin >> N;
 
-    std::cout << "Interval (K): ";
+    std::cout << "Interval hitungan (K): ";
     std::cin >> K;
  
     if (N <= 0) return 0;
